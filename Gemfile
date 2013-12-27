@@ -5,3 +5,5 @@ gem 'daemons', '>= 1.0.10'
 gem 'rufus-scheduler', '~> 2.0.24'
 gem 'chronic', '>= 0.2.0'
 gem 'activesupport'
+gem 'jeweler'
+
