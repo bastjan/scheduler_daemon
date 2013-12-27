@@ -59,8 +59,6 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<rufus-scheduler>, ["~> 2.0.24"])
       s.add_runtime_dependency(%q<chronic>, [">= 0.2.0"])
       s.add_runtime_dependency(%q<activesupport>, [">= 0"])
-      s.add_runtime_dependency(%q<daemons>, [">= 1.0.10"])
-      s.add_runtime_dependency(%q<rufus-scheduler>, ["~> 2.0.24"])
       s.add_runtime_dependency(%q<chronic>, ["~> 0.10.0"])
       s.add_development_dependency(%q<rspec>, ["~> 2.13.0"])
     else
